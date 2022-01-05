@@ -23,5 +23,47 @@ a{
 }
 button{
     background-image:linear-gradient(orange, tomato);
+
     border-radius: 5px;
 }
+
+.section2{
+    display: flex;
+    padding-top: 10%;
+    margin-right: 10px;
+}
+.expert{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.section3{
+    display: flex;
+    
+    
+}
+.devlop{
+    width: 40%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 40px;
+    box-shadow: 5px 10px 40px gray;
+    border-radius: 10px;
+    
+}
+#id1{
+    border-left: 10px solid;
+    border-color: orange;
+}
+#id2{
+    border-left: 10px solid;
+    border-color: orange;
+}
+footer p{
+    margin-top: 40px;
+    text-align:center;
+}
+
+<!-- border-left: 10px solid;
+  border-image: linear-gradient(orange, black);
+  border-slice: 1; -->
